@@ -1,4 +1,5 @@
 ### Hi there 👋
+Due to issues with my personal computer, I was unable to take screenshots. However, I have attempted to describe the process in great detail.
 
 <!--
 **2649946w/2649946w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
